@@ -1,0 +1,58 @@
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.StaticWebAssets.xml
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.exe
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.deps.json
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.runtimeconfig.json
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.runtimeconfig.dev.json
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\ref\Facebook Web.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.pdb
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.Views.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\bin\Debug\net5.0\Facebook Web.Views.pdb
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.csprojAssemblyReference.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.AssemblyInfoInputs.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.AssemblyInfo.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorComponent.input.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorComponent.output.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Facebook Web.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.TagHelpers.input.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.TagHelpers.output.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorCoreGenerate.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorAssemblyInfo.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorAssemblyInfo.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\staticwebassets\Facebook Web.StaticWebAssets.Manifest.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\staticwebassets\Facebook Web.StaticWebAssets.xml
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\scopedcss\bundle\Facebook Web.styles.css
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\scopedcss\projectbundle\Facebook Web.bundle.scp.css
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorTargetAssemblyInfo.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.RazorTargetAssemblyInfo.cs
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.Views.pdb
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\ref\Facebook Web.dll
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.pdb
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.genruntimeconfig.cache
+C:\Users\Manuel Rodas\source\repos\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.csproj.CopyComplete
