@@ -1,0 +1,36 @@
+.storiesscrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    max-width: 780px;
+}
+
+.storiesscrollmenu div {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.storieItem {
+    height: 220px;
+    width: 120px;
+    margin-right: 5px;
+    background-color: #0a7fec;
+    border-radius: 7px;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #18191a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }

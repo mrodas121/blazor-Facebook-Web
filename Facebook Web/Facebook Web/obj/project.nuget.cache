@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pJH9oDOR6ZUmR3he0LiLUeEVfBA0+AE1UYrQ06PVZkIF80xjTiscVw1fFSs6OKC5Vy/zeFRgZ/qie7QCgxWaw==",
+  "dgSpecHash": "Q67SHPwjlMHV+Hv1TiqP8DW+URuWo11mKtwHsEXCFTDtBzIyDsUt0xWn8nKqQgXuRv3tc+P+me90DMIfx4hr8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
+  "projectFilePath": "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\Facebook Web.csproj": {}
+    "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\Facebook Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\Facebook Web.csproj": {
+    "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\Facebook Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
+        "projectUniqueName": "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
         "projectName": "Facebook Web",
-        "projectPath": "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
+        "projectPath": "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\Facebook Web.csproj",
         "packagesPath": "C:\\Users\\Manuel Rodas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manuel Rodas\\source\\repos\\Facebook Web\\Facebook Web\\obj\\",
+        "outputPath": "C:\\Users\\Manuel Rodas\\source\\repos\\blazor-Facebook-Web\\Facebook Web\\Facebook Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manuel Rodas\\AppData\\Roaming\\NuGet\\NuGet.Config",

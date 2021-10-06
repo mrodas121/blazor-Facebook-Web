@@ -1,26 +1,48 @@
-﻿<div class="top-row pl-4 navbar navbar-dark" style=" padding: 0px; background: #242526; border-bottom: 1px solid #3a3b3c;">
-    <a class="navbar-brand" href="">Facebook Web</a>
-    <button class="navbar-toggler" @onclick="ToggleNavMenu">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+﻿<div class="top-row pl-6 navbar navbar-dark" style=" padding: 0px;padding-left:0px; background: #242526; border-bottom: 1px solid #3a3b3c;">
+    <div class="row">
+        <div class="col-md-12">
+            <a class="navbar-brand" href="">
+                <img src="/img/icons/logo.PNG" />
+            </a>
+            <input type="text" class="navbarinput" placeholder="  Buscar en Facebook">
+            <button class="navbar-toggler" @onclick="ToggleNavMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </div>
+
 </div>
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
     <ul class="nav flex-column">
-        <li class="nav-item px-4">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
+        <li class="sidebaritem">
+            <img src="/img/pictures/principal.jpg" class="sidebariteprofilepicture" /> Manuel Rodas
         </li>
-        <li class="nav-item px-4">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
-            </NavLink>
+        <li class="sidebaritem">
+            <img src="/img/icons/frindsico.PNG" /> Amigos
         </li>
-        <li class="nav-item px-4">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
-            </NavLink>
+        <li class="sidebaritem">
+
+            <img src="/img/icons/grupsico.PNG" /> Grupos
+        </li>
+        <li class="sidebaritem">
+
+            <img src="/img/icons/marketico.PNG" /> Marketplace
+        </li>
+        <li class="sidebaritem">
+            <img src="/img/icons/watchico.PNG" /> Watch
+        </li>
+        <li class="sidebaritem">
+            <img src="/img/icons/greetingsico.PNG" />  Recuerdos
+        </li>
+        <li class="sidebaritem">
+            <img src="/img/icons/savedico.PNG" /> Guardado
+        </li>
+        <li class="sidebaritem">
+            <img src="/img/icons/pagesico.PNG" /> Pagina
+        </li>
+        <li class="sidebaritem">
+            <img src="/img/icons/eventsico.PNG" /> Eventos
         </li>
     </ul>
 </div>
