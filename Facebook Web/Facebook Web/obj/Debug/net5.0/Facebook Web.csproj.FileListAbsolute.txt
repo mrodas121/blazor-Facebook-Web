@@ -114,3 +114,9 @@ C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.pdb
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.genruntimeconfig.cache
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Facebook Web.csproj.CopyComplete
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenuHorizontal.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\NavMenuHorizontal.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\StoriesComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\StoriesComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\NewPostComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\NewPostComponent.razor.g.cs
