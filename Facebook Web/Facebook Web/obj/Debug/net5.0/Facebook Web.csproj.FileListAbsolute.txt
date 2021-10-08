@@ -120,3 +120,7 @@ C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\StoriesComponent.razor.g.cs
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\NewPostComponent.razor.g.cs
 C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\NewPostComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\PostListComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\PostListComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\RazorDeclaration\Shared\PostComponent.razor.g.cs
+C:\Users\Manuel Rodas\source\repos\blazor-Facebook-Web\Facebook Web\Facebook Web\obj\Debug\net5.0\Razor\Shared\PostComponent.razor.g.cs

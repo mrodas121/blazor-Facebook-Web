@@ -1,3 +1,8 @@
 .MainLayout {
     background: #18191a
 }
+.MainLayout hr {
+    border: 0;
+    border-top: 1px solid rgb(58 59 60);
+    margin: 10px;
+}

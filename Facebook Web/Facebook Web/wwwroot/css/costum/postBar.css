@@ -2,8 +2,9 @@
     height: 115px;
     width: 780px;
     background-color: #242526;
-    margin-top: 15px;
+    margin-top: 25px;
     border-radius: 7px;
+    margin-bottom:25px;
 }
 .photoprofilepostbar {
     height: 40px;
@@ -29,4 +30,9 @@
     border: 0;
     border-top: 1px solid rgb(58 59 60);
     margin: 10px;
+}
+
+.iconspostbar {
+    height: 32px;
+    margin-right: 50px;
 }

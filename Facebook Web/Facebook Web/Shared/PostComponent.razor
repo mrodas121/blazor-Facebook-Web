@@ -1,0 +1,37 @@
+﻿@using Models
+<div class="d-flex justify-content-center">
+    <div class="postcontainer">
+        <div class="row">
+            <div class="col-12 postuserinfo" style=" margin-top: 11px;">
+                <img src="@Value.ImageB64" class="photoprofilepostbar" />
+                <a class="postuser">@Value.Name</a>
+                <a class="postdate">@Value.Date</a>
+                <a class="postdescription">@Value.Description</a>
+            </div>
+        </div>
+        <div class="picturecontainer">
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="postreactions">
+                    <img src="/img/icons/reactionsico.PNG" />
+                    @Value.Reactions
+                </a>
+                <a class="postcomments">
+                    @Value.Comments
+                </a>
+            </div>
+
+        </div>
+        <hr />
+        <div class="d-flex justify-content-center">
+            <img class="posticons" src="/img/icons/likepostico.PNG" />
+            <img class="posticons" src="/img/icons/commentspostico.PNG" />
+            <img class="posticons" src="/img/icons/sharepostico.PNG" />
+        </div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public PostEntity Value { get; set; }
+}

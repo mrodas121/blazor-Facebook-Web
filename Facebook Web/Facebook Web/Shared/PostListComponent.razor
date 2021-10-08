@@ -1,0 +1,17 @@
+﻿@using Models
+
+@foreach (var post in data)
+{
+    <PostComponent Value=@post />
+}
+@code {
+    List<PostEntity> data = new List<PostEntity>();
+    protected override async Task OnInitializedAsync()
+    {
+        data = new List<PostEntity>()
+        {
+            new PostEntity("/img/pictures/1.jpg","Marco Gonzales","Ayer a las 10:38","Hermoso paisaje","36 comentarios 166 veces compartido","1,7"),
+            new PostEntity("/img/pictures/2.jpg","Fernando Perez","Ayer a las 09:38","Mi nuevo juguete","20 comentarios","1"),
+        };
+    }
+}
